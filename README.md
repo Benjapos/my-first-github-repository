@@ -1,3 +1,2 @@
 # my-first-github-repository
-Here is my first Github repository.
-READ.md file was just edited manually. This file was modified locally.
+This line was modified manually during conflict resolution
