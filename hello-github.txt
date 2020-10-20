@@ -1,1 +1,3 @@
 Hello GitHub
+
+A few changes in feature 3
